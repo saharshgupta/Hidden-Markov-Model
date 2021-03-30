@@ -1,4 +1,4 @@
-# EECS 738 Project 2 - To be, or not to be
+# EECS 738 Project 2 - Hidden Markov Model
 
 Data - Contains a csv file for Shakespeare play data downloaded from kaggle.
 
